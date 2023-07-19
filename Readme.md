@@ -7,6 +7,6 @@ Não se espante se o mapa mudar do nada, pois existem 'terremotos' com uma certa
 O símbolo '*' é, na verdade, um teletransporte para a localização do outro '*'. 
 Já o símbolo 'S' é de super força; com esse poder, você pode atravessar paredes, mas seja cuidadoso, pois você pode se matar ao cair para fora do mapa.
 
-![Jogo nivel facil](imagens/jogofacil.png)
+![Jogo nivel facil](imagens/jogofacil.PNG)
 
-![Jogo nivel medio](imagens/jogoMedio.png)
+![Jogo nivel medio](imagens/jogoMedio.PNG)
